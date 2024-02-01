@@ -1,8 +1,8 @@
-import React from 'react'
-import Navbar from '../../../space-website/src/components/Navbar'
-import Footer from '../../../space-website/src/components/Footer'
-import HeroImage from '../../../space-website/src/components/HeroImage'
-import Training from '../../../space-website/src/components/Training'
+import React from 'react';
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
+import HeroImage from '../components/HeroImage';
+import Training from '../components/Training';
 
 const TrainingRoute = () => {
   return (
