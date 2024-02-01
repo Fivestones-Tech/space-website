@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/space-website/static/css/main.bbd98c47.css",
+    "main.js": "/space-website/static/js/main.226f5c29.js",
+    "static/media/space.mp4": "/space-website/static/media/space.23f5ddbcc440a66ce2b0.mp4",
+    "static/media/astronaut-explores.png": "/space-website/static/media/astronaut-explores.559c7e456cf8cb19693a.png",
+    "static/media/spaceship.png": "/space-website/static/media/spaceship.5abbfae21a024e1fb45b.png",
+    "static/media/picture-astronaut.avif": "/space-website/static/media/picture-astronaut.e7aa1188d4c984bea95f.avif",
+    "index.html": "/space-website/index.html",
+    "main.bbd98c47.css.map": "/space-website/static/css/main.bbd98c47.css.map",
+    "main.226f5c29.js.map": "/space-website/static/js/main.226f5c29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd98c47.css",
+    "static/js/main.226f5c29.js"
+  ]
+}
