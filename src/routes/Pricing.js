@@ -1,8 +1,8 @@
 import React from 'react';
-import Navbar from '../components/Navbar';
-import Footer from '../components/Footer';
-import HeroImage from '../components/HeroImage';
-import Pricing from '../components/Pricing';
+import Navbar from '../../../space-website/src/components/Navbar';
+import Footer from '../../../space-website/src/components/Footer';
+import HeroImage from '../../../space-website/src/components/HeroImage';
+import Pricing from '../../../space-website/src/components/Pricing';
 
 const PricingRoute = () => {
   return (

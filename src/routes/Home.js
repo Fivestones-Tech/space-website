@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from '../components/Navbar'
-import Video from '../components/Video'
-import Footer from '../components/Footer'
+import Navbar from '../../../space-website/src/components/Navbar'
+import Video from '../../../space-website/src/components/Video'
+import Footer from '../../../space-website/src/components/Footer'
 
 
 function Home() {
